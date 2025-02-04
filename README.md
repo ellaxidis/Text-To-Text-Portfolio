@@ -6,17 +6,8 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 
 ## Table of Contents
 
-- [Multiprompt](мультипромпт/)
 - [SEO](СЕО/)
-- [Freelancing](фриланс/)
-- [Numerology](нумерология/)
 - [Finance](финансы/)
-
-- [Контент-план](content-plan/)
-- [Анализ конкурентов](competitor-analysis/)
-- [Прогревы](warm-ups/)
-- [Создание структуры сайта и текстов](site-structure/)
-- [Распаковка личности и экспертности](personality-unpacking/)
-- [Анализ целевой аудитории](target-audience-analysis/)
-- [Разработка воронки продаж](sales-funnel-development/)
-- [Анализ продукта](product-analysis/)
+- [Copywriting](копирайтинг/)
+- [Numerology](нумерология/)
+- [Multiprompt](мультипромпт/)
