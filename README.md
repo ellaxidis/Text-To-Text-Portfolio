@@ -6,12 +6,12 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 
 ## Table of Contents
 
-- **[SEO](СЕО/)**
-- **[Finance](финансы/)**
-- **[Copywriting](копирайтинг/)**
-- **[Numerology](нумерология/)**
-- **[Personal](личное/)**
-- **[Multiprompt](мультипромпт/)**
+- [SEO](СЕО/)
+- [Finance](финансы/)
+- [Copywriting](копирайтинг/)
+- [Numerology](нумерология/)
+- [Personal](личное/)
+- [Multiprompt](мультипромпт/)
   
 <footer>
 
