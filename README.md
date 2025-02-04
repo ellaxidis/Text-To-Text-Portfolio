@@ -17,6 +17,6 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 
 ---
 
-&copy; Elizaveta Teplyashina, February 2025 &bull; Email: ellaxidis.direct@gmail.com &bull; [Telegram](https://t.me/ellaxidis) &bull; [Behance](https://www.behance.net/ellaxidis)
+&copy; February 2025, Elizaveta Teplyashina &bull; Email: ellaxidis.direct@gmail.com &bull; [Telegram](https://t.me/ellaxidis) &bull; [Behance](https://www.behance.net/ellaxidis)
 
 </footer>
