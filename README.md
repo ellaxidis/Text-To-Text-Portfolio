@@ -21,7 +21,4 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 - [Разработка воронки продаж](sales-funnel-development/)
 - [Анализ продукта](product-analysis/)
 
-
-Each work is presented in a separate section. Enjoy your viewing!
-
-Каждая работа представлена в отдельном разделе. Приятного просмотра!
+Each work is presented in a separate section. Enjoy your viewing! Каждая работа представлена в отдельном разделе. Приятного просмотра!
