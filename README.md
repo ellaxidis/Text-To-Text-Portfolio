@@ -17,6 +17,6 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 
 ---
 
-2025, Ellaxidis &bull; [Telegram](t.me/ellaxidis) &bull; [Email](ellaxidis.direct@gmail.com)
+2025, Ellaxidis &bull; [Telegram](https://t.me/ellaxidis) &bull; [Email: ellaxidis.direct@gmail.com]
 
 </footer>
