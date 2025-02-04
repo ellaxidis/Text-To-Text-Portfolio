@@ -10,4 +10,5 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 - [Finance](финансы/)
 - [Copywriting](копирайтинг/)
 - [Numerology](нумерология/)
+- [Personal](личное/)
 - [Multiprompt](мультипромпт/)
