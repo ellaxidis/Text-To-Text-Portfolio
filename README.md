@@ -1,15 +1,16 @@
 # Text-To-Text-Portfolio
 
 Good day! Welcome to my portfolio. Here you will find my best works created using AI. Each piece showcases a unique approach to content creation across various niches.
+
 Добрый день! Добро пожаловать в моё портфолио. Здесь собраны мои лучшие работы, созданные с использованием ИИ. Каждая работа демонстрирует уникальный подход к созданию контента в различных нишах.
 
 ## Table of Contents
 
-- [Multi-prompt]
-- [Freelance]
-- [Numerology]
-- [SEO]
-- [Finance]
+- [Multi-prompt](мультипромпт/)
+- [Freelance](фриланс/)
+- [Numerology](нумерология/)
+- [SEO](СЕО/)
+- [Finance](финансы/)
 
 - [Контент-план](content-plan/)
 - [Анализ конкурентов](competitor-analysis/)
@@ -21,4 +22,5 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 - [Анализ продукта](product-analysis/)
   
 Each work is presented in a separate section. Enjoy your viewing!
+
 Каждая работа представлена в отдельном разделе. Приятного просмотра!
