@@ -7,7 +7,7 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 ## Table of Contents
 
 - [Multiprompt](мультипромпт/)
-- [Freelance](фриланс/)
+- [Freelancing](фриланс/)
 - [Numerology](нумерология/)
 - [SEO](СЕО/)
 - [Finance](финансы/)
