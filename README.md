@@ -6,7 +6,7 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 
 ## Table of Contents
 
-- [Multi-prompt](мультипромпт/)
+- [Multiprompt](мультипромпт/)
 - [Freelance](фриланс/)
 - [Numerology](нумерология/)
 - [SEO](СЕО/)
