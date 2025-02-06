@@ -8,8 +8,8 @@ Good day! Welcome to my portfolio. Here you will find my best works created usin
 
 ## Table of Contents
 
-- [SEO](СЕО/)
 - [IT](финансы/)
+- [SEO](СЕО/)
 - [Финансы](копирайтинг/)
 - [Здоровье](нумерология/)
 - [Красота](личное/)
