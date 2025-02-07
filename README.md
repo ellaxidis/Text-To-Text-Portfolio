@@ -20,7 +20,7 @@ Good day! Welcome to my portfolio 🙌 Here you will find my best works created 
 
 ---
 
-&copy; 2025 Elizaveta Teplyashina. All work examples are completely original. 18+
+&copy; 2025 Elizaveta Teplyashina. All work examples are completely original. All materials are used for informational purposes only. 18+
 
 Email: ellaxidis.direct@gmail.com &bull; [Telegram](https://t.me/ellaxidis) &bull; [Behance](https://www.behance.net/ellaxidis)
 
