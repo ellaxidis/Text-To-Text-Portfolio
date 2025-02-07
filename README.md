@@ -2,7 +2,7 @@
 
 # Text To Text – Portfolio
 
-Good day! Welcome to my portfolio 🙌 Here you will find my best works created using AI. A unique approach to content creation across various niches. I used the following neural nets in my work — DeepSeek, Qwen, GigaChat. Each work is presented in a separate file in the "Contents" section. Enjoy your viewing!
+Good day, and welcome to my portfolio! 🙌 Here you will find my best works created using AI. In my projects, I have utilized up-to-date information to generate content across various niches with the following neural networks — DeepSeek, Qwen, and GigaChat for crafting prompts. Each piece is presented in a separate file within the "Contents" section. Enjoy browsing!
 
 </header>
 
