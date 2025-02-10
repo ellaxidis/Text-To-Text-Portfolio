@@ -18,9 +18,12 @@ Good day, and welcome to my portfolio! 🙌 Here you will find my best works cre
 
 ---
 
-Email: **ellaxidis.direct@gmail.com &bull; [Behance](https://www.behance.net/ellaxidis) &bull; [GitVerse](https://gitverse.ru/ellaxidis)**
-
 ## Лицензия
-Данное портфолио лицензируется согласно условиям CC BY-NC-ND 4.0. Подробнее в файле **[LICENSE](LICENSE)**
+
+Данное портфолио лицензируется согласно условиям CC BY-NC-ND 4.0. Подробнее в файле **[LICENSE](LICENSE_RU.md)**
+
+---
+
+Email: **ellaxidis.direct@gmail.com &bull; [Behance](https://www.behance.net/ellaxidis) &bull; [GitVerse](https://gitverse.ru/ellaxidis)**
 
 &copy; 2025 Elizaveta Teplyashina. All materials are completely original and used for informational purposes only. 18+
