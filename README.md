@@ -1,6 +1,6 @@
 # Text To Text – Portfolio
 
-Good day, and welcome to my portfolio! 🙌 Here you will find my best works created using AI and up-to-date information from the internet for content creation in various niches. I used neural networks — DeepSeek, Qwen, GigaChat. Each piece is presented in a separate file within the "Contents" section. The files are available in MD format in English and Russian. Enjoy browsing! 😊
+Good day, and welcome to my portfolio! 🙌 Here you will find my best works created using up-to-date information from the internet. For content creation, I used the following neural networks — DeepSeek, Qwen, GigaChat. Each work is presented in a separate file in the "Contents" section. The files are available in Markdown format. Enjoy browsing! 😊
 
 👉 **[Портфолио](README_RU.md)** на Русском (RU)
 
