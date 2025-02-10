@@ -1,5 +1,5 @@
 # Creative Commons Legal Code
-## Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
+## Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 Creative Commons is not a law firm and does not provide legal services. Distributing this license does not create an attorney-client relationship. Creative Commons provides this information as-is.
 
@@ -12,7 +12,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
 
 - **Adapter's License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
 
-- **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.
+- **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. This includes any changes that would result in a derivative work under applicable copyright law.
 
 - **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright, including, without limitation, performance, broadcast, sound recording, and sui generis database rights, without regard to how the rights are labeled or categorized.
 
@@ -25,8 +25,8 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
 
 1. **License Grant.**
    - Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable Copyright and Similar Rights), and non-transferable license to exercise the Licensed Rights in the Licensed Material to:
-     - **a)** reproduce and Share the Licensed Material, in whole or in part; and,
-     - **b)** produce, reproduce, and Share Adapted Material.
+     - **a)** reproduce and Share the Licensed Material, in whole or in part, provided that You comply with all other conditions of this Public License, including attribution and non-commercial use requirements;
+     - **b)** produce, reproduce, and Share Adapted Material, except that this right is explicitly denied under the "NoDerivatives" condition.
 
 2. **Restrictions.**
    - The license described above does not grant You the right to:
@@ -45,12 +45,13 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
        - a notice that refers to this Public License;
        - a notice that refers to the disclaimer of warranties;
        - a URI or hyperlink to the Licensed Material to the extent reasonably practicable.
+     - **b)** ensure that the attribution is provided in the manner requested by the Licensor, including any specific formatting or placement instructions.
 
 2. **NonCommercial.**
-   - You may not use the Licensed Material for Commercial Purposes.
+   - You may not use the Licensed Material for Commercial Purposes. For purposes of this Public License, "Commercial Purposes" means any use of the Licensed Material that is primarily intended for commercial advantage or monetary compensation.
 
 3. **NoDerivatives.**
-   - You may not produce, reproduce, or Share Adapted Material.
+   - You may not produce, reproduce, or Share Adapted Material. Any modification, transformation, or building upon the Licensed Material is prohibited unless explicitly permitted by the Licensor.
 
 ---
 
