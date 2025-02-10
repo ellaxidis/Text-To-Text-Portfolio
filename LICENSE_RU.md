@@ -1,5 +1,6 @@
 # Creative Commons Legal Code
-## Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+## Attribution-NonCommercial-NoDerivatives 4.0 International  
+(CC BY-NC-ND 4.0)
 
 Creative Commons Corporation ("Creative Commons") не является стороной данной Лицензии. Стандартные условия использования, применимые ко всем публичным лицензиям Creative Commons, доступны по адресу: [https://creativecommons.org/publicdomain/zero/1.0/legalcode](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
