@@ -4,8 +4,6 @@ Good day, and welcome to my portfolio! 🙌 Here you will find my best works cre
 
 👉 **[Проекты](README_RU.md)** на Русском (RU)
 
----
-
 ## Contents
 
 - **[IT](финансы/)**
