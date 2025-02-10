@@ -2,6 +2,8 @@
 
 Good day, and welcome to my portfolio! 🙌 Here you will find my best works created using AI. In my projects, I have utilized up-to-date information to generate content across various niches with the following neural networks — DeepSeek, Qwen, GigaChat. Each piece is presented in a separate file within the "Contents" section. The files are available in "MD" format in English and Russian. Enjoy browsing! 😊
 
+---
+
 👉 **[Проекты](README_RU.md)** на Русском (RU)
 
 ## Contents
