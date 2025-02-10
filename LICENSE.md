@@ -90,4 +90,4 @@ Where the Licensed Rights include Sui Generis Database Rights that apply to Your
 
 ---
 
-> Note: The full text of the license is available at [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode) [[2]].
+> Note: The full text of the license is available at [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
