@@ -18,11 +18,7 @@ Good day, and welcome to my portfolio! 🙌 Here you will find my best works cre
 
 ---
 
-## License
-
 This portfolio is licensed under the terms of CC BY-NC-ND 4.0. More details are in the file: **[License](LICENSE.md)**
-
----
 
 Email: **ellaxidis.direct@gmail.com &bull; [Behance](https://www.behance.net/ellaxidis) &bull; [GitVerse](https://gitverse.ru/ellaxidis)**
 
