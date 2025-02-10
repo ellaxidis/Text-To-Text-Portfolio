@@ -18,9 +18,9 @@ Good day, and welcome to my portfolio! 🙌 Here you will find my best works cre
 
 ---
 
-## Лицензия
+## License
 
-Данное портфолио лицензируется согласно условиям CC BY-NC-ND 4.0. Подробнее в файле **[LICENSE](LICENSE_RU.md)**
+This portfolio is licensed under the terms of CC BY-NC-ND 4.0. More details are in the file: **[License](LICENSE.md)**
 
 ---
 
