@@ -20,6 +20,6 @@
 
 Email: **ellaxidis.direct@gmail.com &bull; [Behance](https://www.behance.net/ellaxidis) &bull; [GitVerse](https://gitverse.ru/ellaxidis)**
 
-Данное портфолио лицензируется согласно условиям CC BY-NC-ND. Подробнее в файле: **[License](LICENSE_RU.md)**
+Данное портфолио лицензируется согласно условиям CC BY-NC-ND. Подробнее в файле: **[Лицензия](LICENSE_RU.md)**
 
 &copy; 2025 Елизавета Тепляшина. Все материалы оригинальны и используются в ознакомительных целях. 18+
