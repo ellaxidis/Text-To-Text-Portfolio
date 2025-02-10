@@ -1,7 +1,7 @@
 # Creative Commons Legal Code
 ## Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
 
-Creative Commons is not a law firm and does not provide legal services. Distributing this license does not create an attorney-client relationship. Creative Commons provides this information as-is [[2]].
+Creative Commons is not a law firm and does not provide legal services. Distributing this license does not create an attorney-client relationship. Creative Commons provides this information as-is.
 
 ---
 
