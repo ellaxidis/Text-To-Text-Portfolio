@@ -15,12 +15,16 @@
 1. **French Bob 2.0**  
    A modern version of a classic: length to the chin, soft layers, and an asymmetrical parting. Suitable for all types of hair and face shapes, it especially emphasizes cheekbones. Stylists recommend combining it with a curtain bang for a "Parisian chic" look.
    *Example:* Lily Collins and Daisy Edgar-Jones.
+
 2. **Long Hair with Face-Framing Layers**  
    After years of dominance by short cuts, luxurious long hair with soft layers framing the face is making a comeback. The focus is on health and natural texture — perfect for both curly and straight hair.
+
 3. **Shag with Modern Layers**  
    An updated version of the 70s cut: smoother transitions and more volume at the roots. Ideal for fine hair, adding texture and movement. It’s easily styled with a blow dryer or air-dried.
+
 4. **Ultra-Short Bob and Pixie**  
    Bold cuts in the spirit of Emma Stone: asymmetrical lines, textured strands, and emphasis on the nape area. Requires frequent visits to the stylist but perfectly highlights facial features.
+
 5. **Wolf Cut and Bixie**  
    A mix of bob and shag with ragged ends. Creates a "just woke up" effect — voluminous crown, graduated layers. Perfect for experimenting with color.
 
@@ -55,9 +59,11 @@
 - **Casual Look:**
   - *Air Dry* — emphasize natural texture. For curls: use holding gel; for straight hair — non-rinse cream.
   - *Messy Bun* with loose strands + satin ribbons.
+
 - **Office Look:**
   - *Smooth Low Ponytail* with side parting and wax for shine.
   - *Minimalist Waves* — created with no-heat rollers.
+
 - **Evening Look:**
   - *Laminated Ponytail* — perfectly smooth ponytail with pearl hairpins.
   - *Hollywood Curls* — curls made using a triple-barrel curling iron.
@@ -70,10 +76,12 @@
 - **DNA Scalp Analysis** — personalized product selection based on genetics.
 - Infrared laser combs (3 times per week).
 - Sprays with sheep placenta extract — stimulate growth.
+
 **2. Brittleness:**
 - **Liquid Keratin** in ampoules — applied after each wash.
 - Spray with nano-gold particles — fills micro-damages.
 - Avoid metal hair accessories.
+
 **3. Oily Hair:**
 - Detox shampoos with bentonite and apple cider vinegar (once a month course).
 - Micro-needle patches for scalp — regulate sebum production.
