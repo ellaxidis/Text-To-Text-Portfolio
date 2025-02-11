@@ -56,17 +56,17 @@
 
 ## 💇 **Everyday Hairstyles**
 
-- **Casual Look:**
-  - *Air Dry* — emphasize natural texture. For curls: use holding gel; for straight hair — non-rinse cream.
-  - *Messy Bun* with loose strands + satin ribbons.
+**Casual Look:**
+- *Air Dry* — emphasize natural texture. For curls: use holding gel; for straight hair — non-rinse cream.
+- *Messy Bun* with loose strands + satin ribbons.
 
-- **Office Look:**
-  - *Smooth Low Ponytail* with side parting and wax for shine.
-  - *Minimalist Waves* — created with no-heat rollers.
+**Office Look:**
+- *Smooth Low Ponytail* with side parting and wax for shine.
+- *Minimalist Waves* — created with no-heat rollers.
 
-- **Evening Look:**
-  - *Laminated Ponytail* — perfectly smooth ponytail with pearl hairpins.
-  - *Hollywood Curls* — curls made using a triple-barrel curling iron.
+**Evening Look:**
+- *Laminated Ponytail* — perfectly smooth ponytail with pearl hairpins.
+- *Hollywood Curls* — curls made using a triple-barrel curling iron.
 
 ---
 
