@@ -9,7 +9,7 @@ Good day, and welcome to my portfolio! 🙌 Here you'll find my best AI Works cr
 ## Contents
 
 - **[IT](CONTENTS_EN/IT_EN.md)**
-- **[SEO](CONTENTS_EN/IT_EN.md)**
+- **[SEO](CONTENTS_EN/SEO_EN.md)**
 - **[Finance](CONTENTS_EN/Finance_EN.md)**
 - **[Health](CONTENTS_EN/Health_EN.md)**
 - **[Beauty](CONTENTS_EN/Beauty_EN.md)**
