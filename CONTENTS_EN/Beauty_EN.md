@@ -9,7 +9,9 @@
 ---
 
 # Trends 2025: Stylish Hairstyles, Hair Care, and Solutions
+
 ## ✂️ **Main Haircut Trends**
+
 1. **French Bob 2.0**  
    A modern version of a classic: length to the chin, soft layers, and an asymmetrical parting. Suitable for all types of hair and face shapes, it especially emphasizes cheekbones. Stylists recommend combining it with a curtain bang for a "Parisian chic" look.
    *Example:* Lily Collins and Daisy Edgar-Jones.
@@ -22,27 +24,34 @@
 5. **Wolf Cut and Bixie**  
    A mix of bob and shag with ragged ends. Creates a "just woke up" effect — voluminous crown, graduated layers. Perfect for experimenting with color.
 
------
+---
+
 ## 🌟 **Choosing the Right Hair Care Products**
+
 **1. By Hair Type:**
 - **Dry Hair:** Creams with ceramides and marula oil to restore the lipid barrier. Night masks with propolis.
 - **Oily Hair:** Shampoos with fermented ingredients (kombucha, rice) — regulate sebum. Light serums for roots.
 - **Fine Hair:** Volumizing mousses with sodium hyaluronate and pea proteins. Avoid silicones!
 - **Curly Hair:** Gels with flax extract and panthenol — maintain curl shape without clumping.
+
 **2. Top Ingredients for 2025:**
 - **Nano-Peptides** — restore hair structure at the molecular level.
 - **Eco-Cellulose** (from orange waste) — biodegradable component for styling.
 - **Adaptogens 2.0** (maca, astragalus) — protect against stress and pollution.
 
------
+---
+
 ## 🎨 **Hair Coloring Trends**
+
 - **Expensive Espresso** — rich chocolate shades with glossy shine. Low maintenance: a toning mask every 6–8 weeks suffices.
 - **Copper Renaissance** — copper tones with brown undertones (cinnamon, rust). Universal for light and dark skin tones.
 - **Bronde** — a hybrid of blonde and brunette. Natural transition between colors, conceals gray hair.
 - **Gemstone Colors** — emerald, sapphire, ruby. Requires prior bleaching and regular care.
 
------
+---
+
 ## 💇 **Everyday Hairstyles**
+
 - **Casual Look:**
   - *Air Dry* — emphasize natural texture. For curls: use holding gel; for straight hair — non-rinse cream.
   - *Messy Bun* with loose strands + satin ribbons.
@@ -53,8 +62,10 @@
   - *Laminated Ponytail* — perfectly smooth ponytail with pearl hairpins.
   - *Hollywood Curls* — curls made using a triple-barrel curling iron.
 
------
+---
+
 ## 🚨 **Solving Hair Problems**
+
 **1. Hair Loss:**
 - **DNA Scalp Analysis** — personalized product selection based on genetics.
 - Infrared laser combs (3 times per week).
@@ -68,12 +79,15 @@
 - Micro-needle patches for scalp — regulate sebum production.
 - Silk pillowcases — reduce friction.
 
------
+---
+
 ## 💡 **Stylist Tips**
+
 1. **Regular Trims** — even for long hair. Refresh ends every 8–10 weeks to avoid split ends.
 2. **Glossy Finish** — creams and gels with shimmer replace hair sprays. Relevant for wet looks.
 3. **Color Analysis** — choose shades according to seasonal coloring (e.g., cold blonde for “winter” type).
 4. **Heatless Styling** — silk rollers and braids overnight. Keeps hair healthy.
+
 *The main trend of 2025 is balancing between naturalness and boldness. Don’t be afraid to experiment, but remember: even the trendiest haircut requires a healthy base!* 🌿
 
 ---
@@ -85,7 +99,9 @@
 ---
 
 # Makeup 2025: Trends, Product Selection, and Techniques for the Perfect Look
+
 ## 🌟 Choosing Cosmetics for Different Skin Types
+
 ### 1. **Oily/Combination Skin**
 - **Foundation:** Lightweight fluids with a matte finish (e.g., **Hydrating Matte Serum Foundation L’Oréal** with Moroccan clay).
 - **Care:** Shampoos with salicylic acid for sebum regulation, non-rinse root serums.
@@ -102,6 +118,7 @@
 
 -----
 ## 💄 Modern Trends and Their Adaptation
+
 ### 1. **"Invisible Makeup"**
 - **Concept:** "Second skin" effect focusing on well-groomed appearance.
 - **How to Achieve:**
@@ -127,8 +144,10 @@
 - **Trend:** Straight "Korean-style" brows with gel.
 - **Tools:** Clear brow gel (e.g., **Pusy 2.0**).
 
------
+---
+
 ## 🔥 Long-Lasting Makeup: Instructions for Different Conditions
+
 ### Office Look (8+ hours)
 1. **Base:** Primer with SPF 30 (e.g., **FRESH & FIX SPRAY**).
 2. **Foundation:** Mattifying powder with bamboo extract for oil control.
@@ -147,8 +166,10 @@
 - **Accent:** Pastel shadows (mint, lilac) + white eyeliner.
 - **Fixation:** Spray with aloe vera extract.
 
------
+---
+
 ## 🧰 Essential Makeup Bag for 2025
+
 1. **Must-Have Products:**
    - Tinted serum with adaptogens.
    - Multi-purpose tint for lips/cheeks (e.g., **Shu Cheeky Devil 358**).
@@ -160,11 +181,14 @@
    - Micro-needle patches for sebum correction.
    - Laser combs against lash loss.
 
------
+---
+
 ## 💡 Important!
+
 - **Test Trends:** Not all novelties are universal. For instance, pale pink lips ("bubblegum") suit only fair skin.
 - **Adapt Colors:** Use a color wheel for selecting shadows (green eyes + pink shadows).
 - **Don't Forget Skincare:** Even long-lasting makeup needs removal with micellar water and nighttime cream.
+
 *The main trend of 2025 is balancing bold experiments with skin care. Choose what highlights your uniqueness!* 🌸
 
 ---
@@ -176,8 +200,11 @@
 ---
 
 # Classical Interior Design 2025: Synthesis of Tradition, Technology, and Ecology
+
 ## 🌿 **Sustainable Design and Eco-Materials in Classical Aesthetics**
+
 ### 1. **Reimagining Historical Materials**
+
 - **Wood:** Using **restored parquet** from old estates instead of cutting new trees. For columns and panels — thermally treated pine imitating oak.
 - **Stone:** Recycled marble from production waste (e.g., epoxy resin mixed with crushed stone for Empire-style countertops).
 - **Textiles:** Tapestry upholstery made from nettle fiber with Versailles patterns. Curtains from recycled silk with hand embroidery.
@@ -185,12 +212,15 @@
 **Example:** Fireplace area in Baroque style with a portal made from recycled gypsum, painted with natural pigments (ochre, umber).
 
 ### 2. **Eco-Technology for "Palace" Comfort**
+
 - **Underfloor Heating** beneath marble tiles: carbon heating mats integrated into anti-slip coatings.
 - **Hidden Ventilation** behind ceiling rosettes.
 - **Solar Panels** styled as stained glass window inserts.
 
------
+---
+
 ## 🏛 **Technology Preserving the Spirit of Classicism**
+
 ### 1. **Smart Home in an Antique Interior**
 - **Motion Sensors** disguised as bronze chandeliers in Louis XIV style.
 - **Voice-Controlled Curtains:** Rods with microchips mimicking Baroque swirls.
@@ -202,8 +232,10 @@
 
 **Case:** Living room in Neoclassical style with a projector hidden in a chandelier-candelabrum (projects frescoes onto monochrome walls).
 
------
+---
+
 ## ⚖️ **Minimalism Through the Lens of Classical Canons**
+
 ### 1. **Color Palette**
 - **Basic Colors:** Muted versions of historical hues — powdery "Pompeian red," capuccino instead of gold plating.
 - **Accents:** One saturated color in the Baroque spirit (emerald, sapphire) against neutral walls.
@@ -217,8 +249,10 @@
 - **Arches Instead of Doors:** Echo proportions of Roman triumphal arches but made from lightweight drywall.
 - **Screens with Stained Glass Inserts** for separating kitchen and living areas.
 
------
+---
+
 ## 🖼 **Decoration: Dialogue Across Eras**
+
 ### 1. **Art and Crafts**
 - **Frescoes on Mineral Plaster:** Renaissance themes but with eco-friendly water-based paints.
 - **Modern Sculptures** from recycled glass on Empire-style consoles.
@@ -231,8 +265,10 @@
 - Picture frames made from bamboo with patina "under old bronze."
 - Rugs handmade from recycled cashmere (Persian knot technique).
 
------
+---
+
 ## 📐 **Adapting to Client Requests: 3 Scenarios**
+
 ### 1. **Small Apartment in Neoclassical Style**
 - **Approach:** Mirrors framed with Greek meanders for visual expansion.
 - **Furniture:** Built-in wardrobes with "marble" facades, folding table-desks.
@@ -245,8 +281,10 @@
 - **Contrast:** Rough brickwork + glossy Art Deco commodes with mother-of-pearl inlay.
 - **Decor:** Vintage cardboard suitcases (imitating leather) as coffee tables.
 
------
+---
+
 ## 🔨 **Checklist for the Perfect Project**
+
 1. Maintain **axial symmetry** — the foundation of classicism.
 2. Select **2-3 materials** and repeat them across different elements (e.g., a marble pattern on curtains and vases).
 3. Add a **"talking piece"** — antique clocks on the mantelpiece or porcelain figurines.
@@ -263,7 +301,9 @@
 ---
 
 # Ethnocultural Design 2025: Synthesis of Traditions, Technology, and Sustainability
+
 ## 🌿 **Sustainable Fashion: Ethical Materials and Production**
+
 ### 1. **Eco-Materials with Historical Context**
 - **Bamboo Silk** for Hanfu-inspired ceremonial dresses: airy texture, biodegradable, dyed with natural pigments (turmeric, indigo).
 - **Recycled Wool** for Scandinavian sweaters: recreating traditional "net patterns" via laser cutting, eliminating scraps.
@@ -273,8 +313,10 @@
 - Collaborations with craft guilds (India, Peru) — fair pay + blockchain certification of yarn origin.
 - "Zero Waste" cutting: puzzle-pattern layouts inspired by Japanese kintsugi.
 
------
+---
+
 ## 💻 **Technology: Digital Heritage and Personalization**
+
 ### 1. **3D Reconstruction of Museum Artifacts**
 - Scanning historical costumes (e.g., Russian kokoshniks) for digital texture libraries. Designers adapt patterns to modern silhouettes via AI algorithms.
 - Example: Dresses with "Bryansk diamonds" embroidery designed in CLO3D and produced on seamless 3D knitting machines.
@@ -286,8 +328,10 @@
 ### 3. **Laser Engraving vs Hand Work**
 - Combining technologies and craftsmanship: machine engraving Celtic patterns on eco-leather followed by hand-painting with natural dyes.
 
------
+---
+
 ## 🌍 **Cultural Code: Reinterpreting Traditions**
+
 ### 1. **Silhouettes**
 - **Africa:**
   - Updated Baule dresses — loose garments with asymmetrical hemlines and pocket pouches (inspired by griot bags).
@@ -307,8 +351,10 @@
   - "Corals" from recycled plastic for Ukrainian wreaths.
   - Fringes from nettle thread for Mexican rebozo.
 
------
+---
+
 ## 👗 **Collections 2025: From Everyday Wear to High Fashion**
+
 ### 1. **Urban Ethnic (Casual Line)**
 - **This Includes:**
   - Hoodies with scarf-hoods (inspired by Pakistani shawls) + detachable appliqués in Uzbek suzane style.
@@ -328,8 +374,10 @@
   - Tote bags with "digital batik" prints — scan QR code to learn the history of the pattern.
   - Belts with rune engravings on vegetable-tanned leather (laser etching without dyes).
 
------
+---
+
 ## 🌟 **Tips for Designers**
+
 1. **Study Local Crafts Through Digital Archives**
    - UNESCO Crafts Library provides 3D models of traditional tools and video tutorials.
 2. **Combine Machine and Handmade**
@@ -339,8 +387,10 @@
 
 *"Fashion is a dialogue between times. In 2025, we speak a language where algorithms help preserve the soul of crafts."*
 
------
+---
+
 ## 🧵 **Conclusion**
+
 The main trend of 2025 is **hybrid identity**. This includes dresses where nylon pleats evoke ancient Greek chitons, while smart sensors in linings monitor microclimate. It also includes mushroom-based bags adorned with beads hand-strung by grandmothers in a Malian village. Technology doesn’t replace tradition—it gives it new life in a global world.
 
 **Key Principles:**
@@ -358,7 +408,9 @@ The main trend of 2025 is **hybrid identity**. This includes dresses where nylon
 ---
 
 # Manicure and Pedicure 2025: Ecology, Technology, and Safety
+
 ## 🌿 **Eco-Friendly Materials and Products**
+
 ### 1. **Biodegradable Products**
 - **Water-Based Gel Polish** — replaces traditional formulas with toxic components. Removes without foil, reducing harm to nails and the environment.
 - **Organic Cuticle Oils** — based on shea butter, jojoba, and argan oil. Eliminate the need for aggressive cuticle trimming.
@@ -367,8 +419,10 @@ The main trend of 2025 is **hybrid identity**. This includes dresses where nylon
 **Advantages:** Hypoallergenic, reduces carbon footprint.  
 **Disadvantages:** Shorter durability of eco-gels (up to 10 days compared to 14–21 days for classics).
 
------
+---
+
 ## 💡 **Technological Innovations**
+
 ### 1. **Smart Coatings**
 - **Thermochromic Lacquers** — change color with temperature fluctuations (e.g., warmth of hands).
 - **LED Designs** — built-in micro-diodes in gel polish that glow in the dark. Controlled through an app for changing patterns.
@@ -379,8 +433,10 @@ The main trend of 2025 is **hybrid identity**. This includes dresses where nylon
 
 **Example:** Overlay nails with quartz effects, 3D-printed to mimic natural stone.
 
------
+---
+
 ## 🧼 **Sanitary Standards and Safety**
+
 ### 1. **Processing Standards**
 - **UV Sterilizers** of the new generation destroy 99.9% of bacteria in 30 seconds.
 - **Disposable Bamboo Files** — eliminate cross-contamination risks.
@@ -391,8 +447,10 @@ The main trend of 2025 is **hybrid identity**. This includes dresses where nylon
 
 **Important!** Always verify material certificates and autoclave presence before procedures.
 
------
+---
+
 ## 💅 **Nail Shapes: How to Choose?**
+
 | Shape | Advantages | Disadvantages | Who It Suits |
 | :-: | :-: | :-: | :-: |
 | **Almond** | Visually elongates fingers, feminine | Requires careful handling | Owners of narrow nails |
@@ -400,8 +458,10 @@ The main trend of 2025 is **hybrid identity**. This includes dresses where nylon
 | **Ballarina** | Modern, combines oval and square | Correction difficult during growth | Fans of experimental styles |
 | **Stiletto** | Dramatic accent in outfits | Uncomfortable in daily life | Evening looks, photoshoots |
 
------
+---
+
 ## 🎨 **Seasonal Trends for 2025**
+
 ### 1. **Designs**
 - **Metallic 2.0** — chrome nails with matte topcoat, resembling liquid silver ingots.
 - **Aura Effect** — gradient with blurred edges in pastel tones (e.g., pearlescent pink + lavender).
@@ -412,8 +472,10 @@ The main trend of 2025 is **hybrid identity**. This includes dresses where nylon
 - **Neon Gradient** — acidic tones glowing under UV light, ideal for parties.
 - **Transparent Nude** — "invisible" manicure emphasizing nail health.
 
------
+---
+
 ## 🎀 **Types of Manicure: Comparison**
+
 ### 1. **Classic (Cut)**
 - **Pros:** Deep cuticle cleaning, suitable for problematic skin.
 - **Cons:** Risk of injury if improperly executed.
@@ -426,8 +488,10 @@ The main trend of 2025 is **hybrid identity**. This includes dresses where nylon
 - **Pros:** Corrects shape, ideal for weak nails.
 - **Cons:** Needs correction every 2–3 weeks, prone to lifting under mechanical stress.
 
------
+---
+
 ## 🌟 **Hair Care Tips**
+
 1. **Regular Trims** — even for long hair. Refresh tips every 8–10 weeks to prevent splits.
 2. **Use Available Tools** — create video and audio content using free or affordable programs like Canva or Audacity.
 3. **Test and Analyze** — regularly check how changes affect traffic and conversions. Use Google Analytics and other tools for tracking results.
