@@ -11,9 +11,7 @@
 # Balanced Weekly Meal Plan for Men: 85 kg, 180 cm, Moderately Active Lifestyle
 
 **Goals:** Weight maintenance, improved healt
-
 **Caloric intake:** ~2800-2900 kcal/day
-
 **Macronutrient ratio/day:**  
 - Protein: 160-170 g  
 - Fats: 75-85 g  
