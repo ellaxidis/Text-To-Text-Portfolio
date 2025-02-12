@@ -4,7 +4,7 @@
 
 ## 📌 **Role: Economist**
 
-📝 **Task: Create a report analyzing the state of the economy for the next six months (2025)**
+📝 **Task: Create a report analyzing the state of the economy for the next half a year (2025)**
 
 ---
 
