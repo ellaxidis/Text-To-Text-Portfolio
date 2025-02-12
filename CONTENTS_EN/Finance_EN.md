@@ -9,15 +9,21 @@
 ---
 
 # Analytical Report on the Current State of the Economy
+
 ## Introduction
+
 In today’s world, the economy faces numerous challenges, among which inflation, digitization, and financial literacy play key roles. This analytical report focuses on three main topics: the impact of inflation on consumer purchasing power, the role of digitization in changing the nature of work, and the importance of improving personal financial literacy. Based on current data and trends, we provide forecasts for the upcoming six months starting from February 2025, as well as recommendations for businesses and investors.
 
 ## Main Section
+
 ### Inflation and Its Impact on Purchasing Power
+
 Inflation is the process of rising general price levels for goods and services, leading to a decrease in the purchasing power of monetary units. According to research published at the beginning of 2025, inflation continues to exert significant pressure on economies both in developed and developing countries.
 
 #### Data Analysis
+
 The current dynamics of inflation are as follows:
+
 | Region | Inflation (January 2025) | Forecast (July 2025) |
 |--------|--------------------------|----------------------|
 | EU | 3.2% | 3.8% |
