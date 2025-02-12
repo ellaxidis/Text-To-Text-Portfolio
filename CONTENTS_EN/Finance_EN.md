@@ -17,6 +17,7 @@ In today’s world, the economy faces numerous challenges, among which inflation
 ## Main Section
 
 ### Inflation and Its Impact on Purchasing Power
+
 Inflation is the process of rising general price levels for goods and services, leading to a decrease in the purchasing power of monetary units. According to research published at the beginning of 2025, inflation continues to exert significant pressure on economies both in developed and developing countries.
 
 #### Data Analysis
