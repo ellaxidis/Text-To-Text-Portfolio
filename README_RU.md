@@ -11,9 +11,9 @@
 - **[IT](CONTENTS_RU/Айти_RU.md)**
 - **[SEO](CONTENTS_RU/СЕО_RU.md)**
 - **[Наука](CONTENTS_RU/Наука_RU.md)**
-- **[Финансы](CONTENTS_RU/Финансы_RU.md)**
 - **[Красота](CONTENTS_RU/Красота_RU.md)**
 - **[Здоровье](CONTENTS_RU/Здоровье_RU.md)**
+- **[Финансы](CONTENTS_RU/Финансы_RU.md)**
 - **[Образование](CONTENTS_RU/Образование_RU.md)**
 - **[Мультипромпт](CONTENTS_RU/Мультипромпт_RU.md)**
 
